@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pycharm-code/.idea/pycharm-code.iml" filepath="$PROJECT_DIR$/../pycharm-code/.idea/pycharm-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pycharm_code_lesson/.idea/pycharm_code_lesson2-4.iml" filepath="$PROJECT_DIR$/../pycharm_code_lesson/.idea/pycharm_code_lesson2-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pycharm_lesson8_mode.iml" filepath="$PROJECT_DIR$/.idea/pycharm_lesson8_mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_crawler/.idea/python_crawler.iml" filepath="$PROJECT_DIR$/../python_crawler/.idea/python_crawler.iml" />
+    </modules>
+  </component>
+</project>
